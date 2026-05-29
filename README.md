@@ -191,7 +191,7 @@ IBM-HR-Attrition-Analysis/
 ## 👤 Author
 - **Name:** Tekcham Chingkheinganba Meitei
 - 📧 tekchamchingkhei@gmail.com
-- 💼 www.linkedin.com/in/chingkheinganba-meitei-8208a624a
+- 💼www.linkedin.com/in/tekchamchingkheinganbameitei
 - 🎓 NIT Manipur — Mechanical Engineering
 - 💼 Ex-Genpact — Trust & Safety Analyst
 
